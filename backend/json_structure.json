@@ -1,0 +1,8 @@
+{
+    "id": 123,
+    "name": "component",
+    "description": "detailed description",
+    "connectors": [234, 3465],
+    "technology": "ReactJS",
+    "locator": "path/to/directory"
+}

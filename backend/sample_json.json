@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "frontend",
+        "description": "Frontend in React",
+        "connectors": [2],
+        "technology": "ReactJS",
+        "locator": "/Users/nikdev/Desktop/projects/chart_to_code/test_dir"
+    },
+    {
+        "id": 2,
+        "name": "backend",
+        "description": "Backend API in Flask",
+        "connectors": [1],
+        "technology": "Flask",
+        "locator": "/Users/nikdev/Desktop/projects/chart_to_code/test_dir"
+    }
+]
